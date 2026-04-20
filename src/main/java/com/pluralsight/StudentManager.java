@@ -19,7 +19,7 @@ public class StudentManager {
         int options = userInput.nextInt();
         userInput.nextLine();
         //System.out.println(student1.profile());
-
+s
 
     }
 
